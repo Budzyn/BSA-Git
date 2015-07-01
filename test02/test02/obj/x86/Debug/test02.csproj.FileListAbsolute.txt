@@ -1,0 +1,4 @@
+C:\Users\admin\Desktop\BSA Git\test02\test02\bin\Debug\test02.exe
+C:\Users\admin\Desktop\BSA Git\test02\test02\bin\Debug\test02.pdb
+C:\Users\admin\Desktop\BSA Git\test02\test02\obj\x86\Debug\test02.exe
+C:\Users\admin\Desktop\BSA Git\test02\test02\obj\x86\Debug\test02.pdb
