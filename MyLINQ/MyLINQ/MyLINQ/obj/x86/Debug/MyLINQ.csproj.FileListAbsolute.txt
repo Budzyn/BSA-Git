@@ -1,0 +1,8 @@
+E:\C#\practice\lesson01\MyLINQ\MyLINQ\bin\Debug\MyLINQ.exe
+E:\C#\practice\lesson01\MyLINQ\MyLINQ\bin\Debug\MyLINQ.pdb
+E:\C#\practice\lesson01\MyLINQ\MyLINQ\obj\x86\Debug\MyLINQ.exe
+E:\C#\practice\lesson01\MyLINQ\MyLINQ\obj\x86\Debug\MyLINQ.pdb
+C:\Users\admin\Desktop\MyLINQ\MyLINQ\MyLINQ\obj\x86\Debug\MyLINQ.exe
+C:\Users\admin\Desktop\MyLINQ\MyLINQ\MyLINQ\bin\Debug\MyLINQ.exe
+C:\Users\admin\Desktop\MyLINQ\MyLINQ\MyLINQ\bin\Debug\MyLINQ.pdb
+C:\Users\admin\Desktop\MyLINQ\MyLINQ\MyLINQ\obj\x86\Debug\MyLINQ.pdb
